@@ -65,13 +65,15 @@ https://github.com/TheFifeDawg/omarchy-redshift-theme
 
 On an Omarchy laptop: **Install > Style > Theme**, paste the same URL.
 
-## Credits
+## Wallpapers
 
-The three wallpapers are original AI-generated screenprints made for this theme. The palette and style were inspired by a retro space-race poster Michael shared.
+The three wallpapers are AI-generated in a retro space-race screenprint style.
 
-Wallpapers are composed at 1848×2448 for the Samsung Galaxy Z Fold 8 inner screen. Omalauncher uses a single image and center-crops it to the cover screen (1248×1972), so each wallpaper is framed to hold up on both.
+They're sized 1848×2448 for the Samsung Galaxy Z Fold 8 inner screen and framed to center-crop cleanly to the cover screen (1248×1972).
 
-This repo also includes a `btop.theme` generated from Omarchy's official template, so the palette applies on a laptop as well.
+## Extras
+
+Includes a `btop.theme` built from Omarchy's template, so the palette carries over to btop on a laptop.
 
 ## License
 
